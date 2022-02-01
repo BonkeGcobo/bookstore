@@ -1,0 +1,12 @@
+.HeaderRight {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 15%;
+}
