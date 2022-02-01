@@ -1,6 +1,47 @@
-# Getting Started with Create React App
+# BookStrore
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is a bookstore web application, created using react, react-redux and router. Purpose of this project is to upskill the developer with react and advanced react.
+
+
+## Built With
+
+- HTML, CSS AND JAVASCRIPT
+- REACT
+- VSCODE, REDUX
+
+## Live Demo (if available)
+
+COMING SOON
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+1) Internet connection
+2) git and git-hub
+
+### Setup
+
+1) git clone https://github.com/BonkeGcobo/bookstore.git
+2) cd bookstore
+3) To open server, npm start
+4) To see code, open your favorite code editor
+
+### Install
+
+1) npm install
+
+## Authors
+
+👤 **Bonke Gcobo**
+
+- GitHub: [@githubhandle](https://github.com/BonkeGcobo)
+- Twitter: [@twitterhandle](https://twitter.com/bonkegcobo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/bonkegcobo)
+
 
 ## Available Scripts
 
@@ -70,57 +111,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
