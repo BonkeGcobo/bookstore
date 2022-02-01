@@ -43,6 +43,21 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://linkedin.com/in/bonkegcobo)
 
 
+## Linters
+
+
+**stylelint**
+
+1) run `npx stylelint "**/*.{css,scss}" `  to fix stylint errors
+2) run `npx stylelint "**/*.{css,scss}"` --fix to fix all of them
+
+
+**eslint**
+
+1) run `npx eslint .` "to see the eslint errors"
+2) run `npx eslint . -- fix`  "to fix them"
+
+
 ## Available Scripts
 
 In the project directory, you can run:
