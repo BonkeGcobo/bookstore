@@ -16,6 +16,8 @@ const Addbook = () => {
       author,
     };
     dispatch(addBook(newBook));
+    setTitle('');
+    setAuthor('');
   };
 
   return (

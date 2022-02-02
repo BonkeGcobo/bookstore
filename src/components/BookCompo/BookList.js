@@ -14,6 +14,7 @@ const BookList = () => {
           return (
             <BookInfo
               key={id}
+              id={id}
               title={title}
               author={author}
             />
