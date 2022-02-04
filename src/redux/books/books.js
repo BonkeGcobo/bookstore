@@ -1,6 +1,7 @@
 // Defint the action types
 const ADD_BOOK = 'bookStore/books/ADD_BOOK';
 const REMOVE_BOOK = 'bookStore/books/REMOVE_BOOK';
+const FETCH_API = 'bookStore/books/FETCH_API';
 
 // Setting intialState
 const initialState = [];
