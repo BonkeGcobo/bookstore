@@ -17,6 +17,11 @@ export const removeBook = (payload) => ({
   payload,
 });
 
+export const fetchApi = (payload) => ({
+  type: FETCH_API,
+  payload,
+});
+
 // Write the reducer
 const reducer = (state = initialState, action) => {
   switch (action.type) {
