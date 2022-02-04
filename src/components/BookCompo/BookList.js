@@ -1,9 +1,15 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
 import BookInfo from './BookInfo';
+import { fetchApi } from '../../redux/books/books';
 
 const BookList = () => {
   const bookArray = useSelector((state) => state.booksReducer);
+
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(fetchApi());
+  }, [dispatch]);
 
   return (
     <div>
