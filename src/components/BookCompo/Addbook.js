@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
-import { addBook } from '../../redux/books/books'; // importing an addbook action
+import { addBook } from '../../redux/books/books'; // importing an addbook act
 
 const Addbook = () => {
   const dispatch = useDispatch();
@@ -23,7 +23,6 @@ const Addbook = () => {
         'Content-type': 'application/json; charset=UTF-8',
       },
     });
-    console.log(response);
     return response;
   };
 
