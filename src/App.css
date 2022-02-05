@@ -101,3 +101,30 @@ body {
   background-color: #0290ff;
   color: #ffff;
 }
+
+.theForm {
+  margin:0.5rem 4rem;
+}
+
+.formTitle {
+  color: #121212;
+  opacity: 0.5;
+}
+
+.input-form {
+  display: flex;
+  gap: 4rem;
+}
+
+.theSubmit {
+  border-style: none;
+  padding: 0.5rem;
+  background-color: #0290ff;
+  color: #ffff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.bookList {
+  margin-bottom: 2rem;
+}

@@ -5,6 +5,7 @@ import Addbook from './BookCompo/Addbook';
 const Books = () => (
   <div className="BookSection">
     <BookList />
+    <hr />
     <Addbook />
 
   </div>
