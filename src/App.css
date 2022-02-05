@@ -89,3 +89,15 @@ body {
 .curr-progress {
   font-size: 25px;
 }
+
+.curr {
+  color: #121212;
+  opacity: 0.5;
+}
+
+.update-btn {
+  border-style: none;
+  padding: 0.5rem;
+  background-color: #0290ff;
+  color: #ffff;
+}

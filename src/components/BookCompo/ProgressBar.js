@@ -39,11 +39,11 @@ const ProgressBar = () => {
 
       <div className="book-info">
         <span className="curr">
-          current chapter
+          CURRENT CHAPTER
         </span>
         <h5>Chapter 13</h5>
         <button type="button" className="update-btn" onClick={updatePercentage}>
-          Update Progress
+          UPDATE PROGRESS
         </button>
       </div>
     </div>
