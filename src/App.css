@@ -1,12 +1,130 @@
 .HeaderRight {
   display: flex;
   align-items: center;
-  gap: 25px;
+  justify-content: space-between;
+  width: 56%;
 }
 
 .nav {
   list-style: none;
   display: flex;
   justify-content: space-between;
-  width: 15%;
+  width: 35%;
+}
+
+body {
+  margin: 0;
+  background-color: #f5f6fa;
+}
+
+.tag {
+  text-decoration: none;
+  color: #121212;
+}
+
+.Apptitle {
+  color: #0290ff;
+}
+
+.user-icon {
+  border: 1px solid #e8e8e8;
+  border-radius: 100%;
+  padding: 1rem;
+}
+
+.theHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 0.5rem;
+  background-color: #ffff;
+}
+
+.bookCard {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  justify-content: space-between;
+  margin: 0.5rem 2rem;
+  border: 1px solid #e8e8e8;
+  background-color: #ffff;
+}
+
+.BookDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-progress-container {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+
+.theBtns {
+  border-style: none;
+  background-color: #ffff;
+  color: #4386bf;
+}
+
+.category-sec {
+  color: #121212;
+  opacity: 0.5;
+  font-weight: bold;
+}
+
+.delete {
+  border-right: 1px solid #e8e8e8;
+  border-left: 1px solid #e8e8e8;
+}
+
+.user-progress {
+  display: flex;
+  align-items: center;
+  width: 45%;
+  gap: 25px;
+}
+
+.curr-progress {
+  font-size: 25px;
+}
+
+.curr {
+  color: #121212;
+  opacity: 0.5;
+}
+
+.update-btn {
+  border-style: none;
+  padding: 0.5rem;
+  background-color: #0290ff;
+  color: #ffff;
+}
+
+.theForm {
+  margin: 0.5rem 4rem;
+}
+
+.formTitle {
+  color: #121212;
+  opacity: 0.5;
+}
+
+.input-form {
+  display: flex;
+  gap: 4rem;
+}
+
+.theSubmit {
+  border-style: none;
+  padding: 0.5rem;
+  background-color: #0290ff;
+  color: #ffff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.bookList {
+  margin-bottom: 2rem;
 }
