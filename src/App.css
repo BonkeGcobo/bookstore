@@ -46,7 +46,7 @@ body {
   align-items: center;
   padding: 1rem;
   justify-content: space-between;
-  margin:0.5rem 2rem;
+  margin: 0.5rem 2rem;
   border: 1px solid #e8e8e8;
   background-color: #ffff;
 }
@@ -103,7 +103,7 @@ body {
 }
 
 .theForm {
-  margin:0.5rem 4rem;
+  margin: 0.5rem 4rem;
 }
 
 .formTitle {
